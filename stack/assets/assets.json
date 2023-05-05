@@ -1,0 +1,5806 @@
+{
+  "blte250034f9973b51c": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blte250034f9973b51c",
+    "uid": "blte250034f9973b51c",
+    "content_type": "image/webp",
+    "file_size": "88286",
+    "tags": [],
+    "filename": "Vishnu.webp",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blte250034f9973b51c/6454621ff2dfa81169b22a4c/Vishnu.webp",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "bltc31c687135a4437e",
+    "_version": 2,
+    "title": "Vishnu",
+    "publish_details": [
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-05-05T03:09:52.423Z",
+        "user": "bltf3f3903cb72e702e",
+        "version": 1
+      }
+    ]
+  },
+  "blt3880a7214584e383": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blt3880a7214584e383",
+    "uid": "blt3880a7214584e383",
+    "content_type": "image/webp",
+    "file_size": "58838",
+    "tags": [],
+    "filename": "Victor_Original_file.webp",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt3880a7214584e383/64544e8d72025811784e7c2e/Victor_Original_file.webp",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "bltc31c687135a4437e",
+    "_version": 2,
+    "title": "Victor",
+    "publish_details": [
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-05-05T03:09:37.965Z",
+        "user": "bltf3f3903cb72e702e",
+        "version": 1
+      }
+    ]
+  },
+  "blt3b72b09d7fd5307e": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blt3b72b09d7fd5307e",
+    "uid": "blt3b72b09d7fd5307e",
+    "content_type": "image/png",
+    "file_size": "436882",
+    "tags": [],
+    "filename": "d98d2839f6a044db974b85b7611aacee.png",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt3b72b09d7fd5307e/645440e1f1901f111f7eae99/d98d2839f6a044db974b85b7611aacee.png",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": null,
+    "_version": 2,
+    "title": "Earth",
+    "publish_details": [
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-05-05T03:18:31.270Z",
+        "user": "bltf3f3903cb72e702e",
+        "version": 1
+      }
+    ]
+  },
+  "bltec0db239e340a45f": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/bltec0db239e340a45f",
+    "uid": "bltec0db239e340a45f",
+    "content_type": "image/png",
+    "file_size": "530704",
+    "tags": [],
+    "filename": "Screen_Shot_2023-05-05_at_2.26.12_AM.png",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/bltec0db239e340a45f/64543f6d4d24f410d62d1b3c/Screen_Shot_2023-05-05_at_2.26.12_AM.png",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt7efe053aac414e91",
+    "_version": 1,
+    "title": "Screen_Shot_2023-05-05_at_2.26.12_AM.png",
+    "publish_details": [
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-05-04T23:27:50.480Z",
+        "user": "bltf3f3903cb72e702e",
+        "version": 1
+      }
+    ]
+  },
+  "blt7244411ce2d606f0": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blt7244411ce2d606f0",
+    "uid": "blt7244411ce2d606f0",
+    "content_type": "image/png",
+    "file_size": "13131",
+    "tags": [],
+    "filename": "1681325982Rests_8_Dot_Eigth_.png",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt7244411ce2d606f0/644278831338252c6f86fc3f/1681325982Rests_8_Dot_Eigth_.png",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt1e369e69b04820bd",
+    "_version": 1,
+    "title": "1681325982Rests_8_Dot_Eigth_.png",
+    "publish_details": []
+  },
+  "bltcd842ecaebc6952a": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/bltcd842ecaebc6952a",
+    "uid": "bltcd842ecaebc6952a",
+    "content_type": "image/png",
+    "file_size": "423927",
+    "tags": [],
+    "filename": "19ce072493284ae7b144385274bd2076.png",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/bltcd842ecaebc6952a/645441402beffe356089efc7/19ce072493284ae7b144385274bd2076.png",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt7efe053aac414e91",
+    "_version": 1,
+    "title": "19ce072493284ae7b144385274bd2076.png",
+    "publish_details": [
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-05-04T23:35:35.899Z",
+        "user": "bltf3f3903cb72e702e",
+        "version": 1
+      }
+    ]
+  },
+  "blt110159de9f5ea429": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blt110159de9f5ea429",
+    "uid": "blt110159de9f5ea429",
+    "content_type": "image/png",
+    "file_size": "436882",
+    "tags": [],
+    "filename": "d98d2839f6a044db974b85b7611aacee.png",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt110159de9f5ea429/6454422f72025811784e7c1e/d98d2839f6a044db974b85b7611aacee.png",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "bltc31c687135a4437e",
+    "_version": 1,
+    "title": "d98d2839f6a044db974b85b7611aacee.png",
+    "publish_details": []
+  },
+  "bltd2ca1ba2c0224c5b": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/bltd2ca1ba2c0224c5b",
+    "uid": "bltd2ca1ba2c0224c5b",
+    "content_type": "image/webp",
+    "file_size": "78660",
+    "tags": [],
+    "filename": "zamir_Original_file_(1).webp",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/bltd2ca1ba2c0224c5b/645451f42beffe356089efe6/zamir_Original_file_(1).webp",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "bltc31c687135a4437e",
+    "_version": 2,
+    "title": "Zamir",
+    "publish_details": [
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-05-05T02:19:40.645Z",
+        "user": "bltf3f3903cb72e702e",
+        "version": 2
+      }
+    ]
+  },
+  "blt82bb74344a274a31": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blt82bb74344a274a31",
+    "uid": "blt82bb74344a274a31",
+    "content_type": "image/webp",
+    "file_size": "161996",
+    "tags": [],
+    "filename": "Jaime_Santos_Alcon_Original_file.webp",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt82bb74344a274a31/645445d94bb7677c0819d631/Jaime_Santos_Alcon_Original_file.webp",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "bltc31c687135a4437e",
+    "_version": 4,
+    "title": "Jaime",
+    "publish_details": [
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-05-05T02:18:50.361Z",
+        "user": "bltf3f3903cb72e702e",
+        "version": 4
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-05-05T08:23:57.554Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 4
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-05-05T08:23:57.574Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 4
+      }
+    ]
+  },
+  "blt4c5a82c2a103c75c": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blt4c5a82c2a103c75c",
+    "uid": "blt4c5a82c2a103c75c",
+    "content_type": "image/webp",
+    "file_size": "106566",
+    "tags": [],
+    "filename": "Christine_Masters_Original_file.webp",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt4c5a82c2a103c75c/6454423af1b32a119f435619/Christine_Masters_Original_file.webp",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "bltc31c687135a4437e",
+    "_version": 2,
+    "title": "Christine",
+    "publish_details": [
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-05-05T03:05:57.443Z",
+        "user": "bltf3f3903cb72e702e",
+        "version": 1
+      }
+    ]
+  },
+  "bltb2a9066d2881281f": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/bltb2a9066d2881281f",
+    "uid": "bltb2a9066d2881281f",
+    "content_type": "image/webp",
+    "file_size": "180448",
+    "tags": [],
+    "filename": "Dipak.webp",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/bltb2a9066d2881281f/64544cfa70a44783418b259d/Dipak.webp",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "bltc31c687135a4437e",
+    "_version": 2,
+    "title": "Dipak",
+    "publish_details": [
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-05-05T03:06:17.682Z",
+        "user": "bltf3f3903cb72e702e",
+        "version": 1
+      }
+    ]
+  },
+  "blt693d31d6cc42ebee": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blt693d31d6cc42ebee",
+    "uid": "blt693d31d6cc42ebee",
+    "content_type": "image/webp",
+    "file_size": "103884",
+    "tags": [],
+    "filename": "GAUTOM_Original_file.webp",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt693d31d6cc42ebee/64546196e806c7e807ed20c2/GAUTOM_Original_file.webp",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "bltc31c687135a4437e",
+    "_version": 2,
+    "title": "Gautom",
+    "publish_details": [
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-05-05T03:06:40.701Z",
+        "user": "bltf3f3903cb72e702e",
+        "version": 1
+      }
+    ]
+  },
+  "blt1d47369911d75dca": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blt1d47369911d75dca",
+    "uid": "blt1d47369911d75dca",
+    "content_type": "image/webp",
+    "file_size": "86404",
+    "tags": [],
+    "filename": "Jorge_Fonseca_Original_file_(1).webp",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt1d47369911d75dca/64544c601670ece219da830a/Jorge_Fonseca_Original_file_(1).webp",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "bltc31c687135a4437e",
+    "_version": 2,
+    "title": "Jorge",
+    "publish_details": [
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-05-05T03:07:04.428Z",
+        "user": "bltf3f3903cb72e702e",
+        "version": 1
+      }
+    ]
+  },
+  "bltbc9f1209087fb417": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/bltbc9f1209087fb417",
+    "uid": "bltbc9f1209087fb417",
+    "content_type": "image/webp",
+    "file_size": "85192",
+    "tags": [],
+    "filename": "Srushti_Original_file.webp",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/bltbc9f1209087fb417/6454605c3d3bea2a9decda51/Srushti_Original_file.webp",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "bltc31c687135a4437e",
+    "_version": 2,
+    "title": "Srushti",
+    "publish_details": [
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-05-05T03:07:17.705Z",
+        "user": "bltf3f3903cb72e702e",
+        "version": 1
+      }
+    ]
+  },
+  "blt115d65ddf1ce6ca4": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blt115d65ddf1ce6ca4",
+    "uid": "blt115d65ddf1ce6ca4",
+    "content_type": "image/webp",
+    "file_size": "69198",
+    "tags": [],
+    "filename": "Nick_Barron_Original_file.webp",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt115d65ddf1ce6ca4/645449f83d3bea2a9decda48/Nick_Barron_Original_file.webp",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "bltc31c687135a4437e",
+    "_version": 3,
+    "title": "Nick",
+    "publish_details": [
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-05-05T03:07:34.362Z",
+        "user": "bltf3f3903cb72e702e",
+        "version": 2
+      }
+    ]
+  },
+  "blta8220a383de1c3e5": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blta8220a383de1c3e5",
+    "uid": "blta8220a383de1c3e5",
+    "content_type": "image/webp",
+    "file_size": "87596",
+    "tags": [],
+    "filename": "Robert_Curlette_Original_file.webp",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blta8220a383de1c3e5/6453ec0add503e10d95b8494/Robert_Curlette_Original_file.webp",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "bltc31c687135a4437e",
+    "_version": 3,
+    "title": "Robert",
+    "publish_details": [
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-05-05T03:07:52.079Z",
+        "user": "bltf3f3903cb72e702e",
+        "version": 2
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-05-04T22:45:54.069Z",
+        "user": "bltf3f3903cb72e702e",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-05-04T22:45:54.075Z",
+        "user": "bltf3f3903cb72e702e",
+        "version": 1
+      }
+    ]
+  },
+  "bltf826392405a59a95": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/bltf826392405a59a95",
+    "uid": "bltf826392405a59a95",
+    "content_type": "image/webp",
+    "file_size": "103844",
+    "tags": [],
+    "filename": "Ruprani.webp",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/bltf826392405a59a95/6454644e3d3bea2a9decda5b/Ruprani.webp",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "bltc31c687135a4437e",
+    "_version": 2,
+    "title": "Ruprani",
+    "publish_details": [
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-05-05T03:08:09.491Z",
+        "user": "bltf3f3903cb72e702e",
+        "version": 1
+      }
+    ]
+  },
+  "bltcb10e9586666fe29": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/bltcb10e9586666fe29",
+    "uid": "bltcb10e9586666fe29",
+    "content_type": "image/webp",
+    "file_size": "163402",
+    "tags": [],
+    "filename": "Sanchifile.webp",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/bltcb10e9586666fe29/64545ca23a6e3c10d270ca09/Sanchifile.webp",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "bltc31c687135a4437e",
+    "_version": 2,
+    "title": "Sanchi",
+    "publish_details": [
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-05-05T03:08:29.703Z",
+        "user": "bltf3f3903cb72e702e",
+        "version": 1
+      }
+    ]
+  },
+  "bltee9a559a74caae04": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/bltee9a559a74caae04",
+    "uid": "bltee9a559a74caae04",
+    "content_type": "image/webp",
+    "file_size": "124608",
+    "tags": [],
+    "filename": "Toasty_Original_file.webp",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/bltee9a559a74caae04/6453790686f0ea111ed08963/Toasty_Original_file.webp",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "bltc31c687135a4437e",
+    "_version": 2,
+    "title": "Toasty",
+    "publish_details": [
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-05-05T03:08:48.240Z",
+        "user": "bltf3f3903cb72e702e",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-05-04T12:11:38.451Z",
+        "user": "bltf3f3903cb72e702e",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-05-04T12:11:38.457Z",
+        "user": "bltf3f3903cb72e702e",
+        "version": 1
+      }
+    ]
+  },
+  "blt7252a008ac57b2b1": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blt7252a008ac57b2b1",
+    "uid": "blt7252a008ac57b2b1",
+    "content_type": "image/webp",
+    "file_size": "81660",
+    "tags": [],
+    "filename": "Sreenesh.webp",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt7252a008ac57b2b1/64544f9639e9b504ba94aaf1/Sreenesh.webp",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "bltc31c687135a4437e",
+    "_version": 2,
+    "title": "Sreenesh",
+    "publish_details": [
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-05-05T03:09:06.851Z",
+        "user": "bltf3f3903cb72e702e",
+        "version": 1
+      }
+    ]
+  },
+  "blt0eb4b1ef839e312b": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blt0eb4b1ef839e312b",
+    "uid": "blt0eb4b1ef839e312b",
+    "content_type": "image/svg+xml",
+    "file_size": "579",
+    "tags": [],
+    "filename": "Icon_Artwork_1.svg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt0eb4b1ef839e312b/642d3293f46ff5796ba235f4/Icon_Artwork_1.svg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blte511016967df91b4",
+    "_version": 1,
+    "title": "Icon_Artwork_1.svg",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:29.003Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:29.009Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:29.015Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:29.024Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:29.029Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:29.036Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "blt5855df67bd6ecbd0": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blt5855df67bd6ecbd0",
+    "uid": "blt5855df67bd6ecbd0",
+    "content_type": "image/svg+xml",
+    "file_size": "706",
+    "tags": [],
+    "filename": "bucket1.svg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt5855df67bd6ecbd0/642d3291193543595f45fa2f/bucket1.svg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt3ec42f284e66c4d5",
+    "_version": 1,
+    "title": "bucket1.svg",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:26.643Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:26.650Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:26.656Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:26.664Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:26.669Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:26.675Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "bltb312e7642d57c348": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/bltb312e7642d57c348",
+    "uid": "bltb312e7642d57c348",
+    "content_type": "image/svg+xml",
+    "file_size": "1849",
+    "tags": [],
+    "filename": "Icon_Artwork_2.svg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/bltb312e7642d57c348/642d328f1e7ca0130605935b/Icon_Artwork_2.svg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blte511016967df91b4",
+    "_version": 1,
+    "title": "Icon_Artwork_2.svg",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:24.418Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:24.425Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:24.431Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:24.440Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:24.446Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:24.452Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "bltb8e8edabe7673c9c": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/bltb8e8edabe7673c9c",
+    "uid": "bltb8e8edabe7673c9c",
+    "content_type": "image/svg+xml",
+    "file_size": "54029",
+    "tags": [],
+    "filename": "winning-digital-strategy.svg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/bltb8e8edabe7673c9c/642d3288228acb7617aaed3d/winning-digital-strategy.svg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blte3fe34005066c20d",
+    "_version": 1,
+    "title": "Winning Digital Strategy",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:17.525Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:17.530Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:17.534Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:17.541Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:17.547Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:17.552Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "blt075f5a99baa4d729": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blt075f5a99baa4d729",
+    "uid": "blt075f5a99baa4d729",
+    "content_type": "image/jpeg",
+    "file_size": "2850",
+    "tags": [],
+    "filename": "ben.jpeg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt075f5a99baa4d729/642d328aad08f913b2ad745b/ben.jpeg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt9e85f3e182b05a7f",
+    "_version": 1,
+    "title": "ben.jpeg",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:20.127Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:20.130Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:20.133Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:20.137Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:20.139Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:20.142Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "blt003edc45ec16d67d": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blt003edc45ec16d67d",
+    "uid": "blt003edc45ec16d67d",
+    "content_type": "image/svg+xml",
+    "file_size": "706",
+    "tags": [],
+    "filename": "artificial-intelligence.svg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt003edc45ec16d67d/642d32858d39cd128498e1e0/artificial-intelligence.svg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blte3fe34005066c20d",
+    "_version": 1,
+    "title": "Artificial Intelligence.svg",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:14.998Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:15.004Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:15.009Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:15.017Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:15.023Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:15.030Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "bltfe299fb76ac02402": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/bltfe299fb76ac02402",
+    "uid": "bltfe299fb76ac02402",
+    "content_type": "image/svg+xml",
+    "file_size": "1053",
+    "tags": [],
+    "filename": "bucket3.svg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/bltfe299fb76ac02402/642d328c6621252ea0aa0713/bucket3.svg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt3ec42f284e66c4d5",
+    "_version": 1,
+    "title": "bucket3.svg",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:22.216Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:22.219Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:22.222Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:22.226Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:22.229Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:22.232Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "blte8cb948ea3b92712": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blte8cb948ea3b92712",
+    "uid": "blte8cb948ea3b92712",
+    "content_type": "image/jpeg",
+    "file_size": "34781",
+    "tags": [],
+    "filename": "Zora_Neale_Hurston_Headshot.jpg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blte8cb948ea3b92712/642d32cac60fa012503cc14b/Zora_Neale_Hurston_Headshot.jpg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt00d974a4308446a3",
+    "_version": 1,
+    "title": "Zora Neale Hurston",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:23.681Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:23.684Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:23.687Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:23.691Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:23.694Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:23.696Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "blte46f09b0635c9686": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blte46f09b0635c9686",
+    "uid": "blte46f09b0635c9686",
+    "content_type": "image/svg+xml",
+    "file_size": "11085",
+    "tags": [],
+    "filename": "company-logo.svg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blte46f09b0635c9686/642d32c53a5b2e1298e2ba44/company-logo.svg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt883806c02540fbf4",
+    "_version": 1,
+    "title": "Company Logo",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:18.624Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:18.627Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:18.630Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:18.633Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:18.636Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:18.638Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "blt2f55d7832f473761": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blt2f55d7832f473761",
+    "uid": "blt2f55d7832f473761",
+    "content_type": "image/png",
+    "file_size": "99632",
+    "tags": [],
+    "filename": "Charlotte_Bronte_Headshot.png",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt2f55d7832f473761/642d32c734dabc0f59fa179b/Charlotte_Bronte_Headshot.png",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt00d974a4308446a3",
+    "_version": 1,
+    "title": "Charlotte Bronte",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:20.931Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:20.936Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:20.942Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:20.950Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:20.955Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:20.960Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "bltf7e7b5d1ae9d48ab": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/bltf7e7b5d1ae9d48ab",
+    "uid": "bltf7e7b5d1ae9d48ab",
+    "content_type": "image/svg+xml",
+    "file_size": "1314",
+    "tags": [],
+    "filename": "bucket2.svg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/bltf7e7b5d1ae9d48ab/642d3296e9c04f0448e673c1/bucket2.svg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt3ec42f284e66c4d5",
+    "_version": 1,
+    "title": "bucket2.svg",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:31.521Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:31.527Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:31.532Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:31.540Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:31.545Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:31.550Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "bltf59010e6b7953149": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/bltf59010e6b7953149",
+    "uid": "bltf59010e6b7953149",
+    "content_type": "image/svg+xml",
+    "file_size": "806",
+    "tags": [],
+    "filename": "Instagram.svg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/bltf59010e6b7953149/642d329e9aae77131210f191/Instagram.svg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt3ec42f284e66c4d5",
+    "_version": 1,
+    "title": "Instagram.svg",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:39.296Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:39.302Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:39.309Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:39.318Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:39.323Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:39.329Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "bltad420df52d77a1ff": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/bltad420df52d77a1ff",
+    "uid": "bltad420df52d77a1ff",
+    "content_type": "image/svg+xml",
+    "file_size": "1314",
+    "tags": [],
+    "filename": "cloud-computing.svg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/bltad420df52d77a1ff/642d329807ca08126825c456/cloud-computing.svg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "bltfe7e68881dbd0441",
+    "_version": 1,
+    "title": "Cloud Computing",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:33.835Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:33.839Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:33.842Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:33.846Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:33.849Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:33.852Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "blt756be7acfdee0074": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blt756be7acfdee0074",
+    "uid": "blt756be7acfdee0074",
+    "content_type": "image/svg+xml",
+    "file_size": "1288",
+    "tags": [],
+    "filename": "facebook.svg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt756be7acfdee0074/642d32a0ecd6b512b523f069/facebook.svg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt3ec42f284e66c4d5",
+    "_version": 1,
+    "title": "facebook.svg",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:41.350Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:41.353Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:41.356Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:41.361Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:41.365Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:41.368Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "bltd5c1c9e7ae163d09": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/bltd5c1c9e7ae163d09",
+    "uid": "bltd5c1c9e7ae163d09",
+    "content_type": "image/svg+xml",
+    "file_size": "49454",
+    "tags": [],
+    "filename": "help-for-the-next-step.svg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/bltd5c1c9e7ae163d09/642d32a254a89313112823cd/help-for-the-next-step.svg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "bltfe7e68881dbd0441",
+    "_version": 1,
+    "title": "help-for-the-next-step.svg",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:43.900Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:43.906Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:43.911Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:43.919Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:43.926Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:43.931Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "blt7b1384fc901dfba1": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blt7b1384fc901dfba1",
+    "uid": "blt7b1384fc901dfba1",
+    "content_type": "image/svg+xml",
+    "file_size": "1436",
+    "tags": [],
+    "filename": "Twitter.svg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt7b1384fc901dfba1/642d32a420e575779a0aa418/Twitter.svg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt3ec42f284e66c4d5",
+    "_version": 1,
+    "title": "Twitter.svg",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:46.084Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:46.087Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:46.091Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:46.096Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:46.099Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:46.102Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "bltbbcaee87d83a455a": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/bltbbcaee87d83a455a",
+    "uid": "bltbbcaee87d83a455a",
+    "content_type": "image/svg+xml",
+    "file_size": "32524",
+    "tags": [],
+    "filename": "data-mining.svg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/bltbbcaee87d83a455a/642d32a7c60fa012503cc147/data-mining.svg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt01f25dda2c9e232b",
+    "_version": 1,
+    "title": "Data Mining",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:48.583Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:48.589Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:48.595Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:48.603Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:48.609Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:48.615Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "blte8689e0c99dc3613": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blte8689e0c99dc3613",
+    "uid": "blte8689e0c99dc3613",
+    "content_type": "image/svg+xml",
+    "file_size": "49454",
+    "tags": [],
+    "filename": "help-for-the-next-step.svg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blte8689e0c99dc3613/642d32a99f07f40baa23de53/help-for-the-next-step.svg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blte3fe34005066c20d",
+    "_version": 1,
+    "title": "help-for-the-next-step.svg",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:51.057Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:51.063Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:51.069Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:51.078Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:51.083Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:51.089Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "bltc5ff9a1efdc6033a": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/bltc5ff9a1efdc6033a",
+    "uid": "bltc5ff9a1efdc6033a",
+    "content_type": "image/svg+xml",
+    "file_size": "53205",
+    "tags": [],
+    "filename": "headless-cms-solution.svg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/bltc5ff9a1efdc6033a/642d32ac48f0df43ce11fc78/headless-cms-solution.svg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt01f25dda2c9e232b",
+    "_version": 1,
+    "title": "Headless CMS Solution",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:53.931Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:53.934Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:53.938Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:53.943Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:53.946Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:53.950Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "blt6ba0178dceee8da5": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blt6ba0178dceee8da5",
+    "uid": "blt6ba0178dceee8da5",
+    "content_type": "image/svg+xml",
+    "file_size": "1053",
+    "tags": [],
+    "filename": "security.svg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt6ba0178dceee8da5/642d32aeaabe40d2f8694190/security.svg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blte3fe34005066c20d",
+    "_version": 1,
+    "title": "Security",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:55.852Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:55.859Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:55.865Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:55.874Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:55.879Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:55.885Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "blt35f469c2d5034e86": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blt35f469c2d5034e86",
+    "uid": "blt35f469c2d5034e86",
+    "content_type": "image/svg+xml",
+    "file_size": "32495",
+    "tags": [],
+    "filename": "traditional-decoupled-_headless-cms.svg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt35f469c2d5034e86/642d32b2585d9712f3c37cc5/traditional-decoupled-_headless-cms.svg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt01f25dda2c9e232b",
+    "_version": 1,
+    "title": "Traditional Decoupled Headless CMS",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:59.534Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:59.539Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:34:59.544Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:59.553Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:59.557Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:34:59.563Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "blt8d71446ae3730ece": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blt8d71446ae3730ece",
+    "uid": "blt8d71446ae3730ece",
+    "content_type": "image/svg+xml",
+    "file_size": "26826",
+    "tags": [],
+    "filename": "business-with-al.svg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt8d71446ae3730ece/642d32b497e67f7a7ba96a25/business-with-al.svg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt01f25dda2c9e232b",
+    "_version": 1,
+    "title": "Business With Al",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:02.357Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:02.363Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:02.368Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:02.376Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:02.382Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:02.387Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "blt4308070674c22af7": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blt4308070674c22af7",
+    "uid": "blt4308070674c22af7",
+    "content_type": "image/png",
+    "file_size": "3938",
+    "tags": [],
+    "filename": "cslogo.png",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt4308070674c22af7/642d32b6f7167afe67571309/cslogo.png",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt0dcb1c872a1e8c3e",
+    "_version": 1,
+    "title": "cslogo.png",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:04.137Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:04.140Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:04.143Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:04.147Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:04.150Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:04.153Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "blt2ece0a4bd283bd71": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blt2ece0a4bd283bd71",
+    "uid": "blt2ece0a4bd283bd71",
+    "content_type": "image/jpeg",
+    "file_size": "8494",
+    "tags": [],
+    "filename": "AlbertEinstein.jpeg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt2ece0a4bd283bd71/642d32b9f46ff5d30fa235fa/AlbertEinstein.jpeg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt9e85f3e182b05a7f",
+    "_version": 1,
+    "title": "AlbertEinstein.jpeg",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:06.570Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:06.576Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:06.580Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:06.588Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:06.593Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:06.598Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "blt3cec5b7d1151fc13": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blt3cec5b7d1151fc13",
+    "uid": "blt3cec5b7d1151fc13",
+    "content_type": "image/jpeg",
+    "file_size": "25872",
+    "tags": [],
+    "filename": "W._E._B._Du_Bois_Headshot.jpg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt3cec5b7d1151fc13/642d32bb4d369239aea2bba9/W._E._B._Du_Bois_Headshot.jpg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt00d974a4308446a3",
+    "_version": 1,
+    "title": "W.E. B. Du Bois",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:10.162Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:10.168Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:10.174Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:10.182Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:10.188Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:10.193Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "bltdac1a6f34be56677": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/bltdac1a6f34be56677",
+    "uid": "bltdac1a6f34be56677",
+    "content_type": "image/jpeg",
+    "file_size": "31539",
+    "tags": [],
+    "filename": "Charles_Dickens_Headshot.jpg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/bltdac1a6f34be56677/642d32c21231fd1ce1125f07/Charles_Dickens_Headshot.jpg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt00d974a4308446a3",
+    "_version": 1,
+    "title": "Charles Dickens",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:16.316Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:16.319Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:16.322Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:16.325Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:16.327Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:16.330Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "blt745bcb1ee4148207": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blt745bcb1ee4148207",
+    "uid": "blt745bcb1ee4148207",
+    "content_type": "image/jpeg",
+    "file_size": "41226",
+    "tags": [],
+    "filename": "Maya_Angelou_Headshot.jpg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt745bcb1ee4148207/642d32bff0d66ba95e60bcff/Maya_Angelou_Headshot.jpg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt00d974a4308446a3",
+    "_version": 1,
+    "title": "Maya Angelou",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:12.949Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:12.955Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:12.960Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:12.969Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:12.975Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:12.981Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "blt9fc7a052cbd890d8": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blt9fc7a052cbd890d8",
+    "uid": "blt9fc7a052cbd890d8",
+    "content_type": "image/svg+xml",
+    "file_size": "26826",
+    "tags": [],
+    "filename": "business-with-al.svg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt9fc7a052cbd890d8/642d330af7167aedbf571311/business-with-al.svg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt1b7a2f3173d33737",
+    "_version": 1,
+    "title": "Business With Al",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:36:27.687Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:36:27.690Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:36:27.693Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:36:27.697Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:36:27.699Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:36:27.702Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "bltcc9ecfb9f1133520": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/bltcc9ecfb9f1133520",
+    "uid": "bltcc9ecfb9f1133520",
+    "content_type": "image/jpeg",
+    "file_size": "8494",
+    "tags": [],
+    "filename": "AlbertEinstein.jpeg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/bltcc9ecfb9f1133520/642d33070ed1af12f8b2d137/AlbertEinstein.jpeg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt00d974a4308446a3",
+    "_version": 1,
+    "title": "AlbertEinstein.jpeg",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:36:25.048Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:36:25.052Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:36:25.055Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:36:25.061Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:36:25.088Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:36:25.092Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "bltabfe3a7da078a8c0": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/bltabfe3a7da078a8c0",
+    "uid": "bltabfe3a7da078a8c0",
+    "content_type": "image/svg+xml",
+    "file_size": "32524",
+    "tags": [],
+    "filename": "data-mining.svg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/bltabfe3a7da078a8c0/642d330005ae7f12424526cc/data-mining.svg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt1b7a2f3173d33737",
+    "_version": 1,
+    "title": "Data Mining",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:36:17.449Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:36:17.454Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:36:17.460Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:36:17.468Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:36:17.473Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:36:17.478Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "blta2470d47502cad7d": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blta2470d47502cad7d",
+    "uid": "blta2470d47502cad7d",
+    "content_type": "image/svg+xml",
+    "file_size": "47003",
+    "tags": [],
+    "filename": "modern-cloud-ecosystem.svg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blta2470d47502cad7d/642d32d262c3f92508b152a9/modern-cloud-ecosystem.svg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt1b7a2f3173d33737",
+    "_version": 1,
+    "title": "Modern Cloud Ecosystem",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:32.507Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:32.513Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:32.519Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-23T05:14:51.495Z",
+        "user": "blt913770be3bd10af6",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:32.534Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:32.539Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "blt9b7d104c2d280050": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blt9b7d104c2d280050",
+    "uid": "blt9b7d104c2d280050",
+    "content_type": "image/svg+xml",
+    "file_size": "53205",
+    "tags": [],
+    "filename": "headless-cms-solution.svg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt9b7d104c2d280050/642d32d515fdd92fe45ac1c5/headless-cms-solution.svg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt1b7a2f3173d33737",
+    "_version": 1,
+    "title": "Headless CMS Solution",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:35.047Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:35.053Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:35.058Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:35.065Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:35.070Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:35.075Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "blt1c5db14913ae0e42": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blt1c5db14913ae0e42",
+    "uid": "blt1c5db14913ae0e42",
+    "content_type": "image/svg+xml",
+    "file_size": "76596",
+    "tags": [],
+    "filename": "our-story.svg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt1c5db14913ae0e42/642d32d8e0aea21356f883cd/our-story.svg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt3374f4e09fb53358",
+    "_version": 1,
+    "title": "our-story.svg",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:37.966Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:37.972Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:37.977Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:37.985Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:37.992Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:37.997Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "bltf71d5cbcd3e31682": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/bltf71d5cbcd3e31682",
+    "uid": "bltf71d5cbcd3e31682",
+    "content_type": "image/svg+xml",
+    "file_size": "125471",
+    "tags": [],
+    "filename": "about-us.svg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/bltf71d5cbcd3e31682/642d32cce6a58609e46c7e90/about-us.svg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt3374f4e09fb53358",
+    "_version": 1,
+    "title": "about-us.svg",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:26.624Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:26.629Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:26.635Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:26.642Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:26.647Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:26.652Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "blt8abfb686648726b4": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blt8abfb686648726b4",
+    "uid": "blt8abfb686648726b4",
+    "content_type": "image/svg+xml",
+    "file_size": "128164",
+    "tags": [],
+    "filename": "thomas-crane.svg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt8abfb686648726b4/642d32dbe0c870134f4a9280/thomas-crane.svg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt3374f4e09fb53358",
+    "_version": 1,
+    "title": "thomas-crane.svg",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:40.800Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:40.806Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:40.813Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:40.822Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:40.828Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:40.834Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "blt725d31956074c029": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blt725d31956074c029",
+    "uid": "blt725d31956074c029",
+    "content_type": "image/svg+xml",
+    "file_size": "2584878",
+    "tags": [],
+    "filename": "map-of-brimingham-city.svg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt725d31956074c029/642d32d0d13409132ea661f3/map-of-brimingham-city.svg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt5687aaadb41d1d7f",
+    "_version": 1,
+    "title": "Map Of Birmingham City",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:29.920Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:29.926Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:29.932Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:29.941Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:29.947Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:29.953Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "blt9c75d60527e90edc": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blt9c75d60527e90edc",
+    "uid": "blt9c75d60527e90edc",
+    "content_type": "image/svg+xml",
+    "file_size": "48517",
+    "tags": [],
+    "filename": "pierre-cox.svg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt9c75d60527e90edc/642d32dd60bb9bcf3b3d258f/pierre-cox.svg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt3374f4e09fb53358",
+    "_version": 1,
+    "title": "pierre-cox.svg",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:43.252Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:43.257Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:43.260Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:43.266Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:43.270Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:43.273Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "blt2dd848907d1e1ea2": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blt2dd848907d1e1ea2",
+    "uid": "blt2dd848907d1e1ea2",
+    "content_type": "image/svg+xml",
+    "file_size": "1053",
+    "tags": [],
+    "filename": "security.svg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt2dd848907d1e1ea2/642d32e279dec112523bb5fc/security.svg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "bltfe7e68881dbd0441",
+    "_version": 1,
+    "title": "Security",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:47.803Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:47.806Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:47.809Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:47.814Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:47.817Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:47.820Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "bltc6cbd0725db1e431": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/bltc6cbd0725db1e431",
+    "uid": "bltc6cbd0725db1e431",
+    "content_type": "image/svg+xml",
+    "file_size": "154333",
+    "tags": [],
+    "filename": "cierra-vega.svg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/bltc6cbd0725db1e431/642d32e0a1ca674109360012/cierra-vega.svg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt3374f4e09fb53358",
+    "_version": 1,
+    "title": "Cierra Vega",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:45.544Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:45.547Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:45.550Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:45.555Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:45.558Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:45.560Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "blt538821749c1aa73a": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blt538821749c1aa73a",
+    "uid": "blt538821749c1aa73a",
+    "content_type": "image/svg+xml",
+    "file_size": "55212",
+    "tags": [],
+    "filename": "alden-cantrell.svg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt538821749c1aa73a/642d32e548f0dfd25311fc7c/alden-cantrell.svg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt3374f4e09fb53358",
+    "_version": 1,
+    "title": "alden-cantrell.svg",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:50.608Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:50.614Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:50.619Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:50.627Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:50.632Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:50.638Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "blt9a6622c519355b5c": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blt9a6622c519355b5c",
+    "uid": "blt9a6622c519355b5c",
+    "content_type": "image/jpeg",
+    "file_size": "12668",
+    "tags": [],
+    "filename": "Jane_Austen_Headshot.jpg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt9a6622c519355b5c/642d32e7433c5512ddc764de/Jane_Austen_Headshot.jpg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt00d974a4308446a3",
+    "_version": 1,
+    "title": "Jane Austen",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:53.885Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:53.891Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:53.896Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:53.904Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:53.910Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:53.915Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "blt47cf6a02827d5ded": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blt47cf6a02827d5ded",
+    "uid": "blt47cf6a02827d5ded",
+    "content_type": "image/svg+xml",
+    "file_size": "706",
+    "tags": [],
+    "filename": "artificial-intelligence.svg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt47cf6a02827d5ded/642d32eadf6e06e951dfaf0e/artificial-intelligence.svg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "bltfe7e68881dbd0441",
+    "_version": 1,
+    "title": "Artificial Intelligence.svg",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:56.260Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:56.266Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:56.271Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:56.281Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:56.286Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:56.291Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "blt1c699cc9895d1755": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blt1c699cc9895d1755",
+    "uid": "blt1c699cc9895d1755",
+    "content_type": "image/jpeg",
+    "file_size": "148713",
+    "tags": [],
+    "filename": "Mark_Twain_Headshot.jpg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt1c699cc9895d1755/642d32edf683eb12bd811305/Mark_Twain_Headshot.jpg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt00d974a4308446a3",
+    "_version": 1,
+    "title": "Mark Twain",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:58.791Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:58.795Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:35:58.798Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:58.803Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:58.806Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:35:58.810Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "blt3fb1a5bb0c55550a": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blt3fb1a5bb0c55550a",
+    "uid": "blt3fb1a5bb0c55550a",
+    "content_type": "image/jpeg",
+    "file_size": "21371",
+    "tags": [],
+    "filename": "Virginia_Woolf_Headshot.jpg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt3fb1a5bb0c55550a/642d32f0719c4512e89463ca/Virginia_Woolf_Headshot.jpg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt00d974a4308446a3",
+    "_version": 1,
+    "title": "Virginia Woolf",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:36:01.578Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:36:01.583Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:36:01.588Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:36:01.595Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:36:01.600Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:36:01.605Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "bltf554d73eac241a8e": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/bltf554d73eac241a8e",
+    "uid": "bltf554d73eac241a8e",
+    "content_type": "image/svg+xml",
+    "file_size": "579",
+    "tags": [],
+    "filename": "Icon_Artwork_1.svg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/bltf554d73eac241a8e/642d32f54d36925d96a2bbad/Icon_Artwork_1.svg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt3374f4e09fb53358",
+    "_version": 1,
+    "title": "Icon_Artwork_1.svg",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:36:07.331Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:36:07.340Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:36:07.347Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:36:07.356Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:36:07.362Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:36:07.368Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "bltf5285b682457c87d": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/bltf5285b682457c87d",
+    "uid": "bltf5285b682457c87d",
+    "content_type": "image/svg+xml",
+    "file_size": "1849",
+    "tags": [],
+    "filename": "Icon_Artwork_2.svg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/bltf5285b682457c87d/642d32f85089841344346dff/Icon_Artwork_2.svg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt3374f4e09fb53358",
+    "_version": 1,
+    "title": "Icon_Artwork_2.svg",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:36:09.905Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:36:09.912Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:36:09.917Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:36:09.926Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:36:09.932Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:36:09.939Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "blt85ebea08f076595f": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blt85ebea08f076595f",
+    "uid": "blt85ebea08f076595f",
+    "content_type": "image/svg+xml",
+    "file_size": "32495",
+    "tags": [],
+    "filename": "traditional-decoupled-_headless-cms.svg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt85ebea08f076595f/642d32fbdf6e06bc3fdfaf1c/traditional-decoupled-_headless-cms.svg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt1b7a2f3173d33737",
+    "_version": 1,
+    "title": "Traditional Decoupled Headless CMS",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:36:12.632Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:36:12.638Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:36:12.644Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:36:12.652Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:36:12.660Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:36:12.666Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "blt52fbf4a3139ee010": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blt52fbf4a3139ee010",
+    "uid": "blt52fbf4a3139ee010",
+    "content_type": "image/jpeg",
+    "file_size": "21371",
+    "tags": [],
+    "filename": "Virginia_Woolf_Headshot.jpg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt52fbf4a3139ee010/642d334195fd02eb8b18727e/Virginia_Woolf_Headshot.jpg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt9e85f3e182b05a7f",
+    "_version": 1,
+    "title": "Virginia Woolf",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:37:22.893Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:37:22.900Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:37:22.904Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:37:22.913Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:37:22.918Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:37:22.924Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "blt91becb926d267f13": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blt91becb926d267f13",
+    "uid": "blt91becb926d267f13",
+    "content_type": "image/svg+xml",
+    "file_size": "48517",
+    "tags": [],
+    "filename": "pierre-cox.svg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt91becb926d267f13/642d334662c3f91fc9b152af/pierre-cox.svg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blte511016967df91b4",
+    "_version": 1,
+    "title": "pierre-cox.svg",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:37:28.443Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:37:28.447Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:37:28.451Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:37:28.456Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:37:28.459Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:37:28.462Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "bltb355c2aacad1a9d1": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/bltb355c2aacad1a9d1",
+    "uid": "bltb355c2aacad1a9d1",
+    "content_type": "image/svg+xml",
+    "file_size": "1314",
+    "tags": [],
+    "filename": "cloud-computing.svg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/bltb355c2aacad1a9d1/642d3343fd43c6124d0ca226/cloud-computing.svg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blte3fe34005066c20d",
+    "_version": 1,
+    "title": "Cloud Computing",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:37:25.636Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:37:25.640Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:37:25.643Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:37:25.648Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:37:25.652Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:37:25.655Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "blt76933ad2df320ce7": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blt76933ad2df320ce7",
+    "uid": "blt76933ad2df320ce7",
+    "content_type": "image/png",
+    "file_size": "3938",
+    "tags": [],
+    "filename": "cslogo.png",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt76933ad2df320ce7/642d330c50a0e81282840303/cslogo.png",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt883806c02540fbf4",
+    "_version": 1,
+    "title": "cslogo.png",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:36:30.948Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:36:30.952Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:36:30.955Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:36:30.959Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:36:30.962Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:36:30.964Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "bltf2560481a7136af5": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/bltf2560481a7136af5",
+    "uid": "bltf2560481a7136af5",
+    "content_type": "image/svg+xml",
+    "file_size": "55212",
+    "tags": [],
+    "filename": "alden-cantrell.svg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/bltf2560481a7136af5/642d331853bf331261aaae3f/alden-cantrell.svg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blte511016967df91b4",
+    "_version": 1,
+    "title": "alden-cantrell.svg",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:36:41.663Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:36:41.670Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:36:41.676Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:36:41.685Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:36:41.690Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:36:41.696Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "blt055de566b33e65f7": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blt055de566b33e65f7",
+    "uid": "blt055de566b33e65f7",
+    "content_type": "image/jpeg",
+    "file_size": "2850",
+    "tags": [],
+    "filename": "ben.jpeg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt055de566b33e65f7/642d3310e9c04f1794e673c5/ben.jpeg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt00d974a4308446a3",
+    "_version": 1,
+    "title": "ben.jpeg",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:36:33.553Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:36:33.558Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:36:33.563Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:36:33.570Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:36:33.574Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:36:33.579Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "bltc089d57c1a2bfc0d": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/bltc089d57c1a2bfc0d",
+    "uid": "bltc089d57c1a2bfc0d",
+    "content_type": "image/svg+xml",
+    "file_size": "128164",
+    "tags": [],
+    "filename": "thomas-crane.svg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/bltc089d57c1a2bfc0d/642d331b50a0e81282840307/thomas-crane.svg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blte511016967df91b4",
+    "_version": 1,
+    "title": "thomas-crane.svg",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:36:44.372Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:36:44.378Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:36:44.383Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:36:44.391Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:36:44.397Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:36:44.402Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "blt48b0f9da75f4bcb7": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blt48b0f9da75f4bcb7",
+    "uid": "blt48b0f9da75f4bcb7",
+    "content_type": "image/svg+xml",
+    "file_size": "76596",
+    "tags": [],
+    "filename": "our-story.svg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt48b0f9da75f4bcb7/642d331fc6f6d412789b50f6/our-story.svg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blte511016967df91b4",
+    "_version": 1,
+    "title": "our-story.svg",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:36:49.058Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:36:49.064Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:36:49.069Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:36:49.077Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:36:49.083Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:36:49.089Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "bltad38c61e4eef8f44": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/bltad38c61e4eef8f44",
+    "uid": "bltad38c61e4eef8f44",
+    "content_type": "image/svg+xml",
+    "file_size": "125471",
+    "tags": [],
+    "filename": "about-us.svg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/bltad38c61e4eef8f44/642d331dc3ff22124076912e/about-us.svg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blte511016967df91b4",
+    "_version": 1,
+    "title": "about-us.svg",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:36:46.573Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:36:46.577Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:36:46.580Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:36:46.584Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:36:46.587Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:36:46.590Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "bltf31bbab8a81f31c2": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/bltf31bbab8a81f31c2",
+    "uid": "bltf31bbab8a81f31c2",
+    "content_type": "image/png",
+    "file_size": "34306",
+    "tags": [],
+    "filename": "winning-digital-strategy.png",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/bltf31bbab8a81f31c2/642d332273612812a448774a/winning-digital-strategy.png",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "bltfe7e68881dbd0441",
+    "_version": 1,
+    "title": "Winning Digital Strategy",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:36:51.586Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:36:51.591Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:36:51.595Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:36:51.602Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:36:51.606Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:36:51.611Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "bltc1e739369c9ba70e": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/bltc1e739369c9ba70e",
+    "uid": "bltc1e739369c9ba70e",
+    "content_type": "image/jpeg",
+    "file_size": "31539",
+    "tags": [],
+    "filename": "Charles_Dickens_Headshot.jpg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/bltc1e739369c9ba70e/642d3327a7c294e5473f8be1/Charles_Dickens_Headshot.jpg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt9e85f3e182b05a7f",
+    "_version": 1,
+    "title": "Charles Dickens",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:36:57.403Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:36:57.406Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:36:57.409Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:36:57.413Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:36:57.418Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:36:57.420Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "blta2e5d22e2b3fee71": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blta2e5d22e2b3fee71",
+    "uid": "blta2e5d22e2b3fee71",
+    "content_type": "image/svg+xml",
+    "file_size": "154333",
+    "tags": [],
+    "filename": "cierra-vega.svg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blta2e5d22e2b3fee71/642d332497e67f582ca96a2b/cierra-vega.svg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blte511016967df91b4",
+    "_version": 1,
+    "title": "Cierra Vega",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:36:54.656Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:36:54.660Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:36:54.663Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:36:54.668Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:36:54.671Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:36:54.675Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "blt90ebdc231291030a": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blt90ebdc231291030a",
+    "uid": "blt90ebdc231291030a",
+    "content_type": "image/jpeg",
+    "file_size": "34781",
+    "tags": [],
+    "filename": "Zora_Neale_Hurston_Headshot.jpg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt90ebdc231291030a/642d332af46ff5258aa235fe/Zora_Neale_Hurston_Headshot.jpg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt9e85f3e182b05a7f",
+    "_version": 1,
+    "title": "Zora Neale Hurston",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:37:00.374Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:37:00.381Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:37:00.387Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:37:00.397Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:37:00.403Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:37:00.409Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "bltc9f32843f3e6ac5e": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/bltc9f32843f3e6ac5e",
+    "uid": "bltc9f32843f3e6ac5e",
+    "content_type": "image/svg+xml",
+    "file_size": "11085",
+    "tags": [],
+    "filename": "company-logo.svg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/bltc9f32843f3e6ac5e/642d33334f33a111f9685e77/company-logo.svg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt0dcb1c872a1e8c3e",
+    "_version": 1,
+    "title": "Company Logo",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:37:08.593Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:37:08.595Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:37:08.598Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:37:08.601Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:37:08.604Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:37:08.607Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "blt4b8ea47ddf1660e0": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blt4b8ea47ddf1660e0",
+    "uid": "blt4b8ea47ddf1660e0",
+    "content_type": "image/png",
+    "file_size": "99632",
+    "tags": [],
+    "filename": "Charlotte_Bronte_Headshot.png",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt4b8ea47ddf1660e0/642d332d4f33a111f9685e73/Charlotte_Bronte_Headshot.png",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt9e85f3e182b05a7f",
+    "_version": 1,
+    "title": "Charlotte Bronte",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:37:03.461Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:37:03.464Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:37:03.467Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:37:03.470Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:37:03.473Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:37:03.475Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "blted78ffd6c8966c4a": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blted78ffd6c8966c4a",
+    "uid": "blted78ffd6c8966c4a",
+    "content_type": "image/jpeg",
+    "file_size": "148713",
+    "tags": [],
+    "filename": "Mark_Twain_Headshot.jpg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blted78ffd6c8966c4a/642d33319f07f40cbd23de63/Mark_Twain_Headshot.jpg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt9e85f3e182b05a7f",
+    "_version": 1,
+    "title": "Mark Twain",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:37:06.436Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:37:06.443Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:37:06.449Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:37:06.458Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:37:06.463Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:37:06.469Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "bltb89b07ad58eaf260": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/bltb89b07ad58eaf260",
+    "uid": "bltb89b07ad58eaf260",
+    "content_type": "image/jpeg",
+    "file_size": "25872",
+    "tags": [],
+    "filename": "W._E._B._Du_Bois_Headshot.jpg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/bltb89b07ad58eaf260/642d3336e5e0d03288bb2551/W._E._B._Du_Bois_Headshot.jpg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt9e85f3e182b05a7f",
+    "_version": 1,
+    "title": "W.E. B. Du Bois",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:37:11.772Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:37:11.777Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:37:11.780Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:37:11.786Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:37:11.789Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:37:11.792Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "blt2e93e98b2c0d12de": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blt2e93e98b2c0d12de",
+    "uid": "blt2e93e98b2c0d12de",
+    "content_type": "image/svg+xml",
+    "file_size": "47003",
+    "tags": [],
+    "filename": "modern-cloud-ecosystem.svg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt2e93e98b2c0d12de/642d33391231fd0521125f0d/modern-cloud-ecosystem.svg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt01f25dda2c9e232b",
+    "_version": 1,
+    "title": "Modern Cloud Ecosystem",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:37:14.516Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:37:14.519Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:37:14.522Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:37:14.526Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:37:14.529Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:37:14.532Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "blt4d0aa7ba785f4dbd": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/blt4d0aa7ba785f4dbd",
+    "uid": "blt4d0aa7ba785f4dbd",
+    "content_type": "image/jpeg",
+    "file_size": "41226",
+    "tags": [],
+    "filename": "Maya_Angelou_Headshot.jpg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/blt4d0aa7ba785f4dbd/642d333b4e180612c581d526/Maya_Angelou_Headshot.jpg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt9e85f3e182b05a7f",
+    "_version": 1,
+    "title": "Maya Angelou",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:37:17.374Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:37:17.380Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:37:17.386Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:37:17.395Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:37:17.400Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:37:17.406Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  },
+  "bltc3dea2bd3311ee73": {
+    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    "urlPath": "/assets/bltc3dea2bd3311ee73",
+    "uid": "bltc3dea2bd3311ee73",
+    "content_type": "image/jpeg",
+    "file_size": "12668",
+    "tags": [],
+    "filename": "Jane_Austen_Headshot.jpg",
+    "url": "https://images.contentstack.io/v3/assets/bltc2242b759e36fcb9/bltc3dea2bd3311ee73/642d333e1231fd3fef125f11/Jane_Austen_Headshot.jpg",
+    "ACL": {
+      "roles": [],
+      "others": {
+        "read": false,
+        "create": false,
+        "update": false,
+        "delete": false,
+        "sub_acl": {
+          "read": false,
+          "create": false,
+          "update": false,
+          "delete": false,
+          "publish": false
+        }
+      }
+    },
+    "is_dir": false,
+    "parent_uid": "blt9e85f3e182b05a7f",
+    "_version": 1,
+    "title": "Jane Austen",
+    "description": "",
+    "publish_details": [
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:37:20.590Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:37:20.594Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "fr-fr",
+        "time": "2023-04-05T08:37:20.597Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt4df36582f4ca7d26",
+        "locale": "en-us",
+        "time": "2023-04-05T08:37:20.601Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt5d293fa38e3a0da8",
+        "locale": "en-us",
+        "time": "2023-04-05T08:37:20.604Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      },
+      {
+        "environment": "blt6fa07e884a44905d",
+        "locale": "en-us",
+        "time": "2023-04-05T08:37:20.607Z",
+        "user": "bltbe1bf616aff69859",
+        "version": 1
+      }
+    ]
+  }
+}
