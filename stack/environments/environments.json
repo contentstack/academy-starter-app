@@ -1,34 +1,28 @@
 {
   "blt6fa07e884a44905d": {
-    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    
     "urlPath": "/environments/production",
     "urls": [{ "url": "", "locale": "en-us" }],
     "name": "production",
     "_version": 2,
-    "created_by": "bltbe1bf616aff69859",
-    "updated_by": "bltbe1bf616aff69859",
     "created_at": "2023-04-05T08:33:54.944Z",
     "updated_at": "2023-04-05T08:33:54.944Z"
   },
   "blt4df36582f4ca7d26": {
-    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    
     "urlPath": "/environments/preview",
     "urls": [{ "url": "", "locale": "en-us" }],
     "name": "preview",
     "_version": 1,
-    "created_by": "bltbe1bf616aff69859",
-    "updated_by": "bltbe1bf616aff69859",
     "created_at": "2023-04-05T08:33:54.951Z",
     "updated_at": "2023-04-05T08:33:54.951Z"
   },
   "blt5d293fa38e3a0da8": {
-    "stackHeaders": { "api_key": "bltc2242b759e36fcb9" },
+    
     "urlPath": "/environments/development",
     "urls": [{ "url": "http://localhost:3000/", "locale": "en-us" }],
     "name": "development",
     "_version": 4,
-    "created_by": "bltbe1bf616aff69859",
-    "updated_by": "blt181afddb6080e3df",
     "created_at": "2023-04-05T08:33:55.985Z",
     "updated_at": "2023-04-12T07:42:55.324Z"
   }
