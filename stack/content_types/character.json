@@ -96,8 +96,7 @@
           { "value": "Super strength" },
           { "value": "Telekinesis" },
           { "value": "Persuasion" },
-          { "value": "Power of the Gods" },
-          { "value": "Running Fast" }
+          { "value": "Power of the Gods" }
         ]
       },
       "multiple": false,

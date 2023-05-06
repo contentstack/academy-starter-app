@@ -1084,7 +1084,6 @@
                   "advanced": false,
                   "choices": [
                     { "value": "Flying" },
-                    { "value": "Running Fast" },
                     { "value": "Laser Vision" },
                     { "value": "Jumping High" },
                     { "value": "Super Strength" }
@@ -1141,7 +1140,6 @@
                       "choices": [
                         { "value": "Flying" },
                         { "value": "Jumping high" },
-                        { "value": "Running Fast" },
                         { "value": "Super strength" },
                         { "value": "Laser vision" }
                       ]
@@ -1620,7 +1618,6 @@
                   "choices": [
                     { "value": "Flying" },
                     { "value": "Jumping high" },
-                    { "value": "Running Fast" },
                     { "value": "Super strength" },
                     { "value": "Laser vision" }
                   ]
@@ -1790,8 +1787,7 @@
             { "value": "Super strength" },
             { "value": "Telekinesis" },
             { "value": "Persuasion" },
-            { "value": "Power of the Gods" },
-            { "value": "Running Fast" }
+            { "value": "Power of the Gods" }
           ]
         },
         "multiple": false,
@@ -2329,7 +2325,6 @@
                       "choices": [
                         { "value": "Flying" },
                         { "value": "Jumping high" },
-                        { "value": "Running Fast" },
                         { "value": "Super strength" },
                         { "value": "Laser vision" }
                       ]
