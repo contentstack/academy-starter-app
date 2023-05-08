@@ -7,14 +7,14 @@
       "icon": "https://eu-images.contentstack.com/v3/assets/blt8f94ebff857fe1ae/blt0cf36b0f1731feb6/6377230ea953bc0f13b8e3a6/Content_Type_Visualizer.svg",
       "visibility": "public",
       "target_type": "stack",
+      "organization_uid": "blt90f399a6ce838a5a",
       "framework_version": "1.0",
       "version": 7,
       "created_at": "2022-09-22T11:16:56.245Z",
       "updated_at": "2023-01-05T08:03:14.091Z"
     },
     "target": { "type": "stack", "uid": "bltc2242b759e36fcb9" },
-
-   
+    "organization_uid": "",
     "status": "installed",
     "created_at": "2023-04-11T05:18:04.015Z",
     "updated_at": "2023-04-11T05:18:04.909Z",
@@ -48,12 +48,14 @@
       "icon": "https://eu-images.contentstack.com/v3/assets/blt8f94ebff857fe1ae/blt8141683c1670df03/627d036d170c712e886640a8/developertools.svg",
       "visibility": "public",
       "target_type": "stack",
+      "organization_uid": "",
       "framework_version": "1.0",
       "version": 1,
       "created_at": "2022-05-12T06:47:43.384Z",
       "updated_at": "2022-05-12T12:58:08.747Z"
     },
-    
+    "target": { "type": "stack", "uid": "bltc2242b759e36fcb9" },
+    "organization_uid": "",
     "status": "installed",
     "created_at": "2023-04-11T05:17:40.545Z",
     "updated_at": "2023-04-11T05:17:41.547Z",
